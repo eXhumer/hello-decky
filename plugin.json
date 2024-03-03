@@ -1,0 +1,14 @@
+{
+    "name": "Hello Decky",
+    "author": "eXhumer",
+    "flags": [
+      "debug"
+    ],
+    "publish": {
+      "tags": [
+        "proton",
+        "wine"
+      ],
+      "description": "A decky plugin to run a simple hello world program"
+    }
+  }
