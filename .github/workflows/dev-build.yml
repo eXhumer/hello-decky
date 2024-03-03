@@ -48,3 +48,4 @@ jobs:
         with:
           name: Hello Decky-${{ steps.vars.outputs.SHA_SHORT }}
           path: out/Hello Decky/*
+          compression-level: 9
